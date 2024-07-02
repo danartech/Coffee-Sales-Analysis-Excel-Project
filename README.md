@@ -1,12 +1,12 @@
 # Coffee Sales Analysis Project
 
 ## Project Summary
-In this project, I analyzed coffee sales data using various Excel techniques to create an interactive dashboard showcasing key sales metrics.  This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
+This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
 
 ![Dashboard Screenshot](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project/blob/main/Coffee%20Shop%20Project.png)
 
 ## Files Included
-- [Coffee Data Project.xlsx](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project/blob/main/Coffee%20Data%20Project.xlsx))
+- [Coffee Data Project.xlsx](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project/blob/main/Coffee%20Data%20Project.xlsx)
 
 ### Tools and Techniques Used
 
